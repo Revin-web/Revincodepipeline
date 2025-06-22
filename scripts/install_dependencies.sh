@@ -2,6 +2,7 @@
 
 sudo apt-get update
 sudo apt-get install openjdk-11-jdk unzip -y
+sudo apt-get install apache2 -y
 
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
